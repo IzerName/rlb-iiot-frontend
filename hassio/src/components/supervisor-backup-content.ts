@@ -176,7 +176,7 @@ export class SupervisorBackupContent extends LitElement {
             ${!this.backup || this.backup.homeassistant
               ? html`<ha-formfield
                   .label=${html`<supervisor-formfield-label
-                    label="Home Assistant"
+                    label="Reallab IIOT"
                     .iconPath=${mdiHomeAssistant}
                     .version=${this.backup
                       ? this.backup.homeassistant

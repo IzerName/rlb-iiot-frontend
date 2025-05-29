@@ -1,12 +1,12 @@
 ---
 name: Report a bug with the UI, Frontend or Lovelace
-about: Report an issue related to the Home Assistant frontend.
+about: Report an issue related to the Reallab IIOT frontend.
 labels: bug
 ---
 
 <!-- READ THIS FIRST:
 - If you need additional help with this template please refer to https://www.home-assistant.io/help/reporting_issues/
-- Make sure you are running the latest version of Home Assistant before reporting an issue: https://github.com/home-assistant/home-assistant/releases
+- Make sure you are running the latest version of Reallab IIOT before reporting an issue: https://github.com/home-assistant/home-assistant/releases
 - Do not report issues for custom Lovelace cards.
 - Provide as many details as possible. Paste logs, configuration samples and code into the backticks.
 DO NOT DELETE ANY TEXT from this template! Otherwise, your issue may be closed without comment.
@@ -14,7 +14,7 @@ DO NOT DELETE ANY TEXT from this template! Otherwise, your issue may be closed w
 
 ## Checklist
 
-- [ ] I have updated to the latest available Home Assistant version.
+- [ ] I have updated to the latest available Reallab IIOT version.
 - [ ] I have cleared the cache of my browser.
 - [ ] I have tried a different browser to see if it is related to my browser.
 
@@ -51,14 +51,14 @@ DO NOT DELETE ANY TEXT from this template! Otherwise, your issue may be closed w
 <!--
   Provide details about the versions you are using, which helps us reproducing
   and finding the issue quicker. Version information is found in the
-  Home Assistant frontend: Settings -> About.
+  Reallab IIOT frontend: Settings -> About.
 
   Browser version and operating system is important! Please try to replicate
   your issue in a different browser and be sure to include your findings.
 -->
 
-- Home Assistant release with the issue:
-- Last working Home Assistant release (if known):
+- Reallab IIOT release with the issue:
+- Last working Reallab IIOT release (if known):
 - Browser and browser version:
 - Operating system:
 

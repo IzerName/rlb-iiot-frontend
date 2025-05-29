@@ -155,7 +155,7 @@ const createRspackConfig = ({
               : require.resolve(resource);
           } catch (err) {
             console.error(
-              "Error in Home Assistant ignore plugin",
+              "Error in Reallab IIOT ignore plugin",
               resource,
               context
             );

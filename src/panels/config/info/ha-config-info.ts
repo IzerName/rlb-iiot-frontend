@@ -128,7 +128,7 @@ class HaConfigInfo extends LitElement {
               >
               </ha-logo-svg>
             </a>
-            <p>Home Assistant</p>
+            <p>Reallab IIOT</p>
             <ul class="versions">
               <li>
                 <span class="version-label"

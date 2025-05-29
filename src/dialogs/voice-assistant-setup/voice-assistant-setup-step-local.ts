@@ -63,7 +63,7 @@ export class HaVoiceAssistantSetupStepLocal extends LitElement {
       ${this._state === "INSTALLING"
         ? html`<img
               src="/static/images/voice-assistant/update.png"
-              alt="Casita Home Assistant loading logo"
+              alt="Casita Reallab IIOT loading logo"
             />
             <h1>
               ${this.hass.localize(
@@ -82,7 +82,7 @@ export class HaVoiceAssistantSetupStepLocal extends LitElement {
         : this._state === "ERROR"
           ? html` <img
                 src="/static/images/voice-assistant/error.png"
-                alt="Casita Home Assistant error logo"
+                alt="Casita Reallab IIOT error logo"
               />
               <h1>
                 ${this.hass.localize(
@@ -116,7 +116,7 @@ export class HaVoiceAssistantSetupStepLocal extends LitElement {
           : this._state === "NOT_SUPPORTED"
             ? html`<img
                   src="/static/images/voice-assistant/error.png"
-                  alt="Casita Home Assistant error logo"
+                  alt="Casita Reallab IIOT error logo"
                 />
                 <h1>
                   ${this.hass.localize(

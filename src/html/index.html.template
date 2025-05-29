@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Home Assistant</title>
+    <title>Reallab IIOT</title>
     <%= renderTemplate("_header.html.template") %>
     <link rel="mask-icon" href="/static/icons/mask-icon.svg" color="#18bcf2" />
     <link
@@ -11,10 +11,10 @@
     <meta name="apple-itunes-app" content="app-id=1099568401" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <meta name="apple-mobile-web-app-title" content="Home Assistant">
+    <meta name="apple-mobile-web-app-title" content="Reallab IIOT">
     <meta name="msapplication-config" content="/static/icons/browserconfig.xml" />
     <meta name="mobile-web-app-capable" content="yes" />
-    <meta name="application-name" content="Home Assistant">
+    <meta name="application-name" content="Reallab IIOT">
     <meta name="referrer" content="same-origin" />
     <meta name="theme-color" content="{{ theme_color }}" />
     <meta name="color-scheme" content="dark light" />
@@ -74,7 +74,7 @@
       </svg>
       <div id="ha-launch-screen-info-box" class="ha-launch-screen-spacer-bottom"></div>
       <div class="ohf-logo">
-        <img src="/static/images/ohf-badge.svg" alt="Home Assistant is a project by the Open Home Foundation" height="46">
+        <img src="/static/images/ohf-badge.svg" alt="Reallab IIOT is a project by the Open Home Foundation" height="46">
       </div>
     </div>
     <home-assistant></home-assistant>

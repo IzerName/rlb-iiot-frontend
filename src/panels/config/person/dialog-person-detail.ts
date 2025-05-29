@@ -422,7 +422,7 @@ class DialogPersonDetail extends LitElement implements HassDialog {
     );
     if (!credential) {
       showAlertDialog(this, {
-        title: "No Home Assistant credentials found.",
+        title: "No Reallab IIOT credentials found.",
       });
       return;
     }
@@ -438,7 +438,7 @@ class DialogPersonDetail extends LitElement implements HassDialog {
     );
     if (!credential) {
       showAlertDialog(this, {
-        title: "No Home Assistant credentials found.",
+        title: "No Reallab IIOT credentials found.",
       });
       return;
     }

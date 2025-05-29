@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Home Assistant</title>
+    <title>Reallab IIOT</title>
     <%= renderTemplate("../../../src/html/_header.html.template") %>
     <%= renderTemplate("../../../src/html/_style_base.html.template") %>
     <style>
@@ -42,7 +42,7 @@
   <body id="particles">
     <div class="content">
       <div class="header">
-        <img src="/static/icons/favicon-192x192.png" alt="Home Assistant" />
+        <img src="/static/icons/favicon-192x192.png" alt="Reallab IIOT" />
       </div>
       <ha-landing-page></ha-landing-page>
     </div>

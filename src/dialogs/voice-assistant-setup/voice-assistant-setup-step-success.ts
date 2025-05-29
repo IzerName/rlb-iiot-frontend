@@ -82,7 +82,7 @@ export class HaVoiceAssistantSetupStepSuccess extends LitElement {
     return html`<div class="content">
         <img
           src="/static/images/voice-assistant/heart.png"
-          alt="Casita Home Assistant logo"
+          alt="Casita Reallab IIOT logo"
         />
         <h1>
           ${this.hass.localize(

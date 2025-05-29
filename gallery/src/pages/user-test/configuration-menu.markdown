@@ -7,7 +7,7 @@ title: "User Test: Configuration menu"
 At the end of last year, we created one Configuration menu by merging Supervisor. In the next iteration, we want to organize our menu by creating logical grouping and combining duplicated features. We are conducting this test to see if we are on the right track.
 
 - Anyone could join
-- Respondents recruited on Twitter, Reddit and Home Assistant Forum
+- Respondents recruited on Twitter, Reddit and Reallab IIOT Forum
 - This test is open for 10 days
 - UsabilityHub for user test
 - Figma for prototype
@@ -19,10 +19,10 @@ At the end of last year, we created one Configuration menu by merging Supervisor
 
 915 respondents took part in this test and they gave 407 comments. In general there isn’t a significant difference between:
 
-- How long a respondent has been using Home Assistant
+- How long a respondent has been using Reallab IIOT
 - Installation method
-- How many visits to its Home Assistant in the past 3 months
-- Home Assistant expertise
+- How many visits to its Reallab IIOT in the past 3 months
+- Reallab IIOT expertise
 
 ## Overall menu change
 
@@ -62,8 +62,8 @@ _3 respondents passed_
 
 - More top level menu items for example logs.
 - What are settings and what not? Maybe better to name it `Configuration`
-- Devices are a first-class citizen in the domain of Home Assistant, and so shouldn't be tucked away in "Settings"
-- Rename Developer tools (or make it only for Home Assistant developers)
+- Devices are a first-class citizen in the domain of Reallab IIOT, and so shouldn't be tucked away in "Settings"
+- Rename Developer tools (or make it only for Reallab IIOT developers)
 - Separate administration (for instance creating users / adding lights etc) from development activities (creating automations and scripts)
 - Search Bar in Settings
 - Feature to put menu items in sidebar
@@ -89,7 +89,7 @@ We should keep our focus on organizing our menu by creating logical grouping and
 
 ## Helpers
 
-In Home Assistant you can create toggles, text fields, number sliders, timers and counters. Also known as `Helpers`. Where should they be placed?
+In Reallab IIOT you can create toggles, text fields, number sliders, timers and counters. Also known as `Helpers`. Where should they be placed?
 
 ### Stats
 
@@ -135,7 +135,7 @@ This test showed that the current navigation design works.
 
 ## YAML
 
-In Home Assistant you can make configuration changes in YAML files. To make these changes take effect you have to reload your YAML in the UI or do a restart. How are people doing this and can they find it in this new design?
+In Reallab IIOT you can make configuration changes in YAML files. To make these changes take effect you have to reload your YAML in the UI or do a restart. How are people doing this and can they find it in this new design?
 
 ### Stats
 
@@ -165,8 +165,8 @@ And we asked if they have seen that we've moved some functionality from current 
 - Hidden restart and reload
 - YAML in Developer Tools
 - Combining `Developer tools` with `Server management`
-- Reload Home Assistant button isn't clear what it does
-- Reload/restart Home Assistant in Developer Tools
+- Reload Reallab IIOT button isn't clear what it does
+- Reload/restart Reallab IIOT in Developer Tools
 
 **Suggestions**
 
@@ -181,7 +181,7 @@ And we asked if they have seen that we've moved some functionality from current 
 This test showed two different kinds of user groups: UI and YAML users.
 
 - Moving `Developer tools` to `Settings` is a good idea
-- YAML users want reload YAML and Home Assistant restart in `System`
+- YAML users want reload YAML and Reallab IIOT restart in `System`
 - Move the restart and reload button to the `System` page from the overflow menu
 - Add suggestion to reload YAML when a user wants to restart
 - Add reload all YAML button

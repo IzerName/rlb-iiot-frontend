@@ -35,7 +35,7 @@ export default <T extends Constructor<HassBaseEl>>(superClass: T) =>
           showToast(this, {
             message:
               this.hass!.localize("ui.notification_toast.starting") ||
-              "Home Assistant is starting. Not everything will be available until it is finished.",
+              "Reallab IIOT is starting. Not everything will be available until it is finished.",
             duration: -1,
             dismissable: false,
             action: {
@@ -73,7 +73,7 @@ export default <T extends Constructor<HassBaseEl>>(superClass: T) =>
                 "Safe mode",
               text:
                 this.hass!.localize("ui.dialogs.safe_mode.text") ||
-                "Home Assistant is running in safe mode, custom integrations and modules are not available. Restart Home Assistant to exit safe mode.",
+                "Reallab IIOT is running in safe mode, custom integrations and modules are not available. Restart Reallab IIOT to exit safe mode.",
             });
           }
         );

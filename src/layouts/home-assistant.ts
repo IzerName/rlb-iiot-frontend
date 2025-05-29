@@ -143,7 +143,7 @@ export class HomeAssistantAppEl extends QuickBarMixin(HassElement) {
     });
 
     // Render launch screen info box (loading data / error message)
-    // if Home Assistant is not loaded yet.
+    // if Reallab IIOT is not loaded yet.
     if (this.render !== this.renderHass) {
       this._renderInitInfo(false);
     }
@@ -279,7 +279,7 @@ export class HomeAssistantAppEl extends QuickBarMixin(HassElement) {
       })
     );
     if (this.hass!.suspendWhenHidden !== false) {
-      // We close the connection to Home Assistant after being hidden for 5 minutes
+      // We close the connection to Reallab IIOT after being hidden for 5 minutes
       this._hiddenTimeout = window.setTimeout(() => {
         this._hiddenTimeout = undefined;
         // setTimeout can be delayed in the background and only fire

@@ -47,7 +47,7 @@ export class HaThemePicker extends LitElement {
         ${this.includeDefault
           ? html`
               <ha-list-item .value=${DEFAULT_THEME}>
-                Home Assistant
+                Reallab IIOT
               </ha-list-item>
             `
           : nothing}

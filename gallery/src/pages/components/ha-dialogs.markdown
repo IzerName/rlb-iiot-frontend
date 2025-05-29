@@ -36,6 +36,6 @@ Our dialogs are based on the latest version of Material Design. Please note that
 
 > **Delete dashboard?**
 >
-> Dashboard [dashboard name] will be permanently deleted from Home Assistant.
+> Dashboard [dashboard name] will be permanently deleted from Reallab IIOT.
 >
 > Cancel / Delete

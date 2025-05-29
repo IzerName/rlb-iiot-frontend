@@ -42,7 +42,7 @@ export class CloudLoginPanel extends LitElement {
       <hass-subpage
         .hass=${this.hass}
         .narrow=${this.narrow}
-        header="Home Assistant Cloud"
+        header="Reallab IIOT Cloud"
       >
         <ha-button-menu slot="toolbar-icon" @action=${this._handleMenuAction}>
           <ha-icon-button
@@ -66,7 +66,7 @@ export class CloudLoginPanel extends LitElement {
         </ha-button-menu>
         <div class="content">
           <ha-config-section .isWide=${this.isWide}>
-            <span slot="header">Home Assistant Cloud</span>
+            <span slot="header">Reallab IIOT Cloud</span>
             <div slot="introduction">
               <p>
                 ${this.hass.localize(

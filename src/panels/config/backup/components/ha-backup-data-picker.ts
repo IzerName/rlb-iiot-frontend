@@ -246,7 +246,7 @@ export class HaBackupDataPicker extends LitElement {
               <ha-formfield>
                 <ha-backup-formfield-label
                   slot="label"
-                  label="Home Assistant"
+                  label="Reallab IIOT"
                   .iconPath=${mdiHomeAssistant}
                 >
                 </ha-backup-formfield-label>

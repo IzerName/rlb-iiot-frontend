@@ -68,7 +68,7 @@ export class HaVoiceAssistantSetupStepUpdate extends LitElement {
     return html`<div class="content">
       <img
         src="/static/images/voice-assistant/update.png"
-        alt="Casita Home Assistant loading logo"
+        alt="Casita Reallab IIOT loading logo"
       />
       <h1>
         ${stateObj &&

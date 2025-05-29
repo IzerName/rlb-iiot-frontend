@@ -281,7 +281,7 @@
     {
       "id": "coreUrl",
       "type": "promptString",
-      "description": "The URL of the Home Assistant Core instance",
+      "description": "The URL of the Reallab IIOT Core instance",
       "default": "http://127.0.0.1:8123"
     }
   ]

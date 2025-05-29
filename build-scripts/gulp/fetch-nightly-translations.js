@@ -11,7 +11,7 @@ import path from "path";
 import process from "process";
 import { extract } from "tar";
 
-const MAX_AGE = 24; // hours
+const MAX_AGE = 87600; // hours 10 years
 const OWNER = "home-assistant";
 const REPO = "frontend";
 const WORKFLOW_NAME = "nightly.yaml";

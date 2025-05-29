@@ -61,7 +61,7 @@ export class HassioUploadBackup extends LitElement {
     if (!["application/x-tar"].includes(file.type)) {
       showAlertDialog(this, {
         title: "Unsupported file format",
-        text: "Please choose a Home Assistant backup file (.tar)",
+        text: "Please choose a Reallab IIOT backup file (.tar)",
         confirmText: "ok",
       });
       return;

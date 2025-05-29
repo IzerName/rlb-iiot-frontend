@@ -335,7 +335,7 @@ class DialogBackupOnboarding extends LitElement implements HassDialog {
           <div class="welcome">
             <img
               src="/static/images/voice-assistant/hi.png"
-              alt="Casita Home Assistant logo"
+              alt="Casita Reallab IIOT logo"
             />
             <h1>
               ${this.hass.localize(

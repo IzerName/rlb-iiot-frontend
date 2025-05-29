@@ -48,8 +48,8 @@ class DialogTodoItemEditor extends LitElement {
   @state() private _submitting = false;
 
   // Dates are manipulated and displayed in the browser timezone
-  // which may be different from the Home Assistant timezone. When
-  // events are persisted, they are relative to the Home Assistant
+  // which may be different from the Reallab IIOT timezone. When
+  // events are persisted, they are relative to the Reallab IIOT
   // timezone, but floating without a timezone.
   private _timeZone?: string;
 

@@ -43,7 +43,7 @@ class DialogCommunity extends LitElement {
             <img
               src="/static/icons/favicon-192x192.png"
               slot="graphic"
-              alt="Home Assistant Logo"
+              alt="Reallab IIOT Logo"
             />
             ${this.localize("ui.panel.page-onboarding.welcome.forums")}
             <ha-svg-icon slot="meta" .path=${mdiOpenInNew}></ha-svg-icon>

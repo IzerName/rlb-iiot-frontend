@@ -54,7 +54,7 @@ export class HassioUpdate extends LitElement {
         </h1>
         <div class="card-group">
           ${this._renderUpdateCard(
-            "Home Assistant Core",
+            "Reallab IIOT Core",
             "core",
             this.supervisor.core
           )}

@@ -85,7 +85,7 @@ export class HassioBackups extends LitElement {
     }
     const content: string[] = [];
     if (backup.content.homeassistant) {
-      content.push("Home Assistant");
+      content.push("Reallab IIOT");
     }
     if (backup.content.folders.length !== 0) {
       for (const folder of backup.content.folders) {

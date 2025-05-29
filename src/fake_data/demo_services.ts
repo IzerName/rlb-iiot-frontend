@@ -32,11 +32,11 @@ export const demoServices: HassServices = {
         },
       },
     },
-    stop: { description: "Stop the Home Assistant service.", fields: {} },
-    restart: { description: "Restart the Home Assistant service.", fields: {} },
+    stop: { description: "Stop the Reallab IIOT service.", fields: {} },
+    restart: { description: "Restart the Reallab IIOT service.", fields: {} },
     check_config: {
       description:
-        "Check the Home Assistant configuration files for errors. Errors will be displayed in the Home Assistant log.",
+        "Check the Reallab IIOT configuration files for errors. Errors will be displayed in the Reallab IIOT log.",
       fields: {},
     },
     update_entity: {

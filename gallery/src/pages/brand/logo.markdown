@@ -4,7 +4,7 @@ title: "Logo"
 
 # Our logo
 
-As a community, we are proud of our logo. Follow these guidelines to ensure it always represents the identity of the Home Assistant project and community the best way possible.
+As a community, we are proud of our logo. Follow these guidelines to ensure it always represents the identity of the Reallab IIOT project and community the best way possible.
 
 [Download Logo](https://github.com/home-assistant/assets/tree/master/logo)
 
@@ -14,7 +14,7 @@ Please note that this logo is not released under the CC license. All rights rese
 
 # Design
 
-At the core of the Home Assistant logomark is the Blue House with Antenna, the three most recognizable and distinct features of the previous logo throughout the past decade.
+At the core of the Reallab IIOT logomark is the Blue House with Antenna, the three most recognizable and distinct features of the previous logo throughout the past decade.
 
 ### Blue
 
@@ -26,7 +26,7 @@ Of all possible combinations of shapes, a home is best abstracted in the shape o
 
 ### Antenna
 
-Call it a tree, a set of nodes, a PCB, or an antenna. The antenna is the most recognizable and memorable part of the previous Home Assistant logo, and is an easily understandable symbol that conveys technologies that are smart, connected, and growing evergreen.
+Call it a tree, a set of nodes, a PCB, or an antenna. The antenna is the most recognizable and memorable part of the previous Reallab IIOT logo, and is an easily understandable symbol that conveys technologies that are smart, connected, and growing evergreen.
 
 # Usage
 
@@ -36,13 +36,13 @@ The default variation is the static colored wordmark in horizontal layout and da
 
 ![Logo layout variants](/images/brand/logo-layout-variants.png)
 
-The default layout is the wordmark in horizontal layout. It provides the clearest context to the brand identity of Home Assistant.
+The default layout is the wordmark in horizontal layout. It provides the clearest context to the brand identity of Reallab IIOT.
 
-Use the logomark variant when the context is clear that the logo is about Home Assistant. For example, inside the Home Assistant app where users are already aware of where they are at, the logomark variant without the wordmark can be used. The logomark can exist without the wordmark, however, the wordmark should never exist without the icon.
+Use the logomark variant when the context is clear that the logo is about Reallab IIOT. For example, inside the Reallab IIOT app where users are already aware of where they are at, the logomark variant without the wordmark can be used. The logomark can exist without the wordmark, however, the wordmark should never exist without the icon.
 
-Use the wordmark in vertical layout when the space available has an aspect ratio less than 4:3. For example, in a square space on a t-shirt where a logo is needed, since there is no established context of Home Assistant, the wordmark in vertical layout should be used.
+Use the wordmark in vertical layout when the space available has an aspect ratio less than 4:3. For example, in a square space on a t-shirt where a logo is needed, since there is no established context of Reallab IIOT, the wordmark in vertical layout should be used.
 
-Lastly, use the wordmark in vertical layout with small logomark when Home Assistant is displayed in context of other Home Assistant-related projects. For example, in a flowchart showing the voice pipeline, use this layout for Home Assistant and its other related projects.
+Lastly, use the wordmark in vertical layout with small logomark when Reallab IIOT is displayed in context of other Reallab IIOT-related projects. For example, in a flowchart showing the voice pipeline, use this layout for Reallab IIOT and its other related projects.
 
 ## Color variations, backgrounds, and placement
 
@@ -84,4 +84,4 @@ Do not repeat the logo animation.
 
 Special variants are created for specific contexts.
 
-Use the tiny variants when the logomark is used in a very small space (16x16 dp), for example, the favicon of the Home Assistant website, a notification on Android, or the menubar of macOS.
+Use the tiny variants when the logomark is used in a very small space (16x16 dp), for example, the favicon of the Reallab IIOT website, a notification on Android, or the menubar of macOS.

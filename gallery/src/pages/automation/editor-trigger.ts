@@ -49,7 +49,7 @@ const SCHEMAS: { name: string; triggers: Trigger[] }[] = [
   },
 
   {
-    name: "Home Assistant",
+    name: "Reallab IIOT",
     triggers: [{ ...HaHassTrigger.defaultConfig }],
   },
 

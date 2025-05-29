@@ -55,9 +55,9 @@ declare global {
 }
 
 const SUPERVISOR_UPDATE_NAMES = {
-  core: "Home Assistant Core",
-  os: "Home Assistant Operating System",
-  supervisor: "Home Assistant Supervisor",
+  core: "Reallab IIOT Core",
+  os: "Reallab IIOT Operating System",
+  supervisor: "Reallab IIOT Supervisor",
 };
 
 type UpdateType = "os" | "supervisor" | "core" | "addon";

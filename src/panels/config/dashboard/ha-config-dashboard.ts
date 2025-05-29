@@ -170,7 +170,7 @@ class HaConfigDashboard extends SubscribeMixin(LitElement) {
       pages.push({
         component: "cloud",
         path: "/config/cloud",
-        name: "Home Assistant Cloud",
+        name: "Reallab IIOT Cloud",
         info: cloudStatus,
         iconPath: mdiCloudLock,
         iconColor: "#3B808E",

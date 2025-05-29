@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Frontend",
+  "name": "Reallab IIOT Frontend",
   "build": {
     "dockerfile": "Dockerfile",
     "context": ".."
